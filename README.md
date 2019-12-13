@@ -1,4 +1,7 @@
 # HanekawaBot
+
+### In early stage
+
 Get Tsubasa Hanekawa as Telegrambot
 
 Commands so far:
